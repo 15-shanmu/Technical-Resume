@@ -1,0 +1,1266 @@
+.background-image {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #fbf7f7;
+  	width: 970px;
+  	height: 333px;
+}
+.contact-me {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 61.5px);
+  	font-weight: 500;
+}
+.frame-icon {
+  	position: absolute;
+  	top: 1px;
+  	left: 107px;
+  	width: 16px;
+  	height: 16px;
+  	overflow: hidden;
+}
+.contact-me-parent {
+  	width: 123px;
+  	position: relative;
+  	height: 19px;
+}
+.buttonhire-me1 {
+  	border-radius: 5px;
+  	background-color: #ffb400;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 16px 32px;
+}
+.buttonhire-me {
+  	position: absolute;
+  	height: 15.32%;
+  	width: 19.28%;
+  	top: 54.05%;
+  	right: 4.64%;
+  	bottom: 30.63%;
+  	left: 76.08%;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	text-align: center;
+}
+.im-drvyokesh {
+  	margin: 0;
+}
+.assistant {
+  	color: #ffb400;
+}
+.im-drvyokesh-assistant-container {
+  	position: absolute;
+  	top: 93px;
+  	left: 60px;
+  	font-size: 48px;
+  	line-height: 123.6%;
+  	display: inline-block;
+  	width: 500px;
+}
+.main-menu-child {
+  	position: absolute;
+  	top: 52px;
+  	left: 520px;
+  	border-radius: 50%;
+  	border: 2px solid rgba(5, 255, 0, 0.8);
+  	box-sizing: border-box;
+  	width: 16px;
+  	height: 16px;
+}
+.main-menu-item {
+  	position: absolute;
+  	top: 307px;
+  	left: 137px;
+  	border-radius: 50%;
+  	border: 2px solid rgba(5, 255, 0, 0.8);
+  	box-sizing: border-box;
+  	width: 16px;
+  	height: 16px;
+}
+.main-menu-inner {
+  	position: absolute;
+  	top: 263px;
+  	left: 683px;
+  	border-radius: 50%;
+  	border: 2px solid rgba(255, 180, 0, 0.8);
+  	box-sizing: border-box;
+  	width: 16px;
+  	height: 16px;
+}
+.ellipse-div {
+  	position: absolute;
+  	top: 30px;
+  	left: 40px;
+  	border-radius: 50%;
+  	border: 2px solid rgba(255, 180, 0, 0.8);
+  	box-sizing: border-box;
+  	width: 16px;
+  	height: 16px;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 69.66px;
+  	left: 902.46px;
+  	border: 2px solid rgba(255, 180, 0, 0.8);
+  	box-sizing: border-box;
+  	width: 16px;
+  	height: 16px;
+  	transform:  rotate(26deg);
+  	transform-origin: 0 0;
+}
+.main-menu-child1 {
+  	position: absolute;
+  	top: 293px;
+  	left: 506.03px;
+  	border: 2px solid rgba(19, 65, 182, 0.8);
+  	box-sizing: border-box;
+  	width: 16px;
+  	height: 16px;
+  	transform:  rotate(26deg);
+  	transform-origin: 0 0;
+}
+.polygon-icon {
+  	position: absolute;
+  	top: 293px;
+  	left: 917px;
+  	width: 16px;
+  	height: 16px;
+}
+.lorem-ipsum-dolor {
+  	position: absolute;
+  	top: 229px;
+  	left: 60px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	color: #767676;
+  	display: inline-block;
+  	width: 424px;
+  	height: 88px;
+}
+.main-menu {
+  	position: absolute;
+  	top: 0px;
+  	left: 337px;
+  	width: 970px;
+  	height: 333px;
+  	font-size: 16px;
+}
+.left-menu-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #fff;
+  	width: 305px;
+  	height: 1157px;
+}
+.profile-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 34px;
+  	border-radius: 50%;
+  	width: 150px;
+  	height: 150px;
+  	object-fit: cover;
+}
+.drvyokesh {
+  	position: absolute;
+  	top: 181px;
+  	left: 37px;
+  	line-height: 123.6%;
+  	text-transform: capitalize;
+  	font-weight: 500;
+}
+.assistant-professor1 {
+  	position: absolute;
+  	top: 218px;
+  	left: 38px;
+  	font-size: 15px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	color: #767676;
+}
+.available {
+  	position: absolute;
+  	top: 116px;
+  	left: 158px;
+  	box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+  	border-radius: 50%;
+  	background-color: #7eb942;
+  	width: 16px;
+  	height: 16px;
+}
+.facebook-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 24px;
+  	height: 24px;
+}
+.instagram-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 39px;
+  	width: 24px;
+  	height: 24px;
+}
+.twitter-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 78px;
+  	width: 24px;
+  	height: 24px;
+}
+.linkeding-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 117px;
+  	width: 24px;
+  	height: 24px;
+}
+.youtube-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 156px;
+  	width: 24px;
+  	height: 24px;
+}
+.dribbble-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 195px;
+  	width: 24px;
+  	height: 24px;
+}
+.social-icon {
+  	position: absolute;
+  	top: 257px;
+  	left: 0px;
+  	width: 219px;
+  	height: 24px;
+}
+.profile {
+  	position: absolute;
+  	top: 50px;
+  	left: 40px;
+  	width: 219px;
+  	height: 281px;
+  	font-size: 18px;
+}
+.left-menu-item {
+  	position: absolute;
+  	top: 355.25px;
+  	left: 39.25px;
+  	border-top: 1.5px solid #f0f0f6;
+  	box-sizing: border-box;
+  	width: 221.5px;
+  	height: 1.5px;
+}
+.age-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #ffb400;
+  	width: 46px;
+  	height: 24px;
+}
+.age1 {
+  	position: absolute;
+  	top: 1px;
+  	left: 5px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+}
+.age2 {
+  	position: absolute;
+  	top: 0px;
+  	left: 185px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	text-align: right;
+}
+.age {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 220px;
+  	height: 25px;
+}
+.residence-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #ffb400;
+  	width: 89px;
+  	height: 24px;
+}
+.gender {
+  	position: absolute;
+  	top: 0px;
+  	left: 5px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+}
+.male {
+  	position: absolute;
+  	top: 0px;
+  	left: 185px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	text-align: right;
+}
+.residence {
+  	position: absolute;
+  	top: 34px;
+  	left: 0px;
+  	width: 220px;
+  	height: 24px;
+}
+.freelance-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #ffb400;
+  	width: 113px;
+  	height: 24px;
+}
+.married {
+  	position: absolute;
+  	top: 0px;
+  	left: 165px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	color: #010101;
+  	text-align: right;
+}
+.freelance {
+  	position: absolute;
+  	top: 68px;
+  	left: 0px;
+  	width: 220px;
+  	height: 24px;
+}
+.address-child {
+  	position: absolute;
+  	top: 5px;
+  	left: 0px;
+  	background-color: #ffb400;
+  	width: 89px;
+  	height: 24px;
+}
+.nationality {
+  	position: absolute;
+  	top: 5px;
+  	left: 5px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+}
+.indian {
+  	position: absolute;
+  	top: 0px;
+  	left: 179px;
+  	font-size: 14px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	text-align: right;
+}
+.address {
+  	position: absolute;
+  	top: 97px;
+  	left: 0px;
+  	width: 219px;
+  	height: 29px;
+}
+.about {
+  	position: absolute;
+  	top: 381px;
+  	left: 40px;
+  	width: 220px;
+  	height: 126px;
+}
+.left-menu-inner {
+  	position: absolute;
+  	top: 531.25px;
+  	left: 39.25px;
+  	border-top: 1.5px solid #f0f0f6;
+  	box-sizing: border-box;
+  	width: 221.5px;
+  	height: 1.5px;
+}
+.languages1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	font-size: 18px;
+  	line-height: 123.6%;
+  	text-transform: capitalize;
+  	font-weight: 500;
+  	color: #2b2b2b;
+}
+.tamil1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+}
+.div1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 182px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+}
+.tamil {
+  	position: absolute;
+  	top: 37px;
+  	left: 0px;
+  	width: 220px;
+  	height: 24px;
+}
+.line-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 30px;
+  	border: 0.5px solid #ffb400;
+  	box-sizing: border-box;
+  	width: 221px;
+  	height: 5px;
+}
+.line-item {
+  	position: absolute;
+  	top: 1px;
+  	left: 1px;
+  	border-radius: 30px;
+  	background-color: #ffb400;
+  	width: 218px;
+  	height: 2px;
+}
+.line {
+  	position: absolute;
+  	top: 66px;
+  	left: 0px;
+  	width: 220px;
+  	height: 4px;
+}
+.div2 {
+  	position: absolute;
+  	top: 0px;
+  	left: 188px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+}
+.english {
+  	position: absolute;
+  	top: 79px;
+  	left: 0px;
+  	width: 219px;
+  	height: 24px;
+}
+.line-child1 {
+  	position: absolute;
+  	top: 1px;
+  	left: 1px;
+  	border-radius: 30px;
+  	background-color: #ffb400;
+  	width: 208px;
+  	height: 2px;
+}
+.line1 {
+  	position: absolute;
+  	top: 108px;
+  	left: 0px;
+  	width: 220px;
+  	height: 4px;
+}
+.languages {
+  	position: absolute;
+  	top: 557px;
+  	left: 40px;
+  	width: 220px;
+  	height: 112px;
+  	color: #767676;
+}
+.line-div {
+  	position: absolute;
+  	top: 704.25px;
+  	left: 39.25px;
+  	border-top: 1.5px solid #f0f0f6;
+  	box-sizing: border-box;
+  	width: 221.5px;
+  	height: 1.5px;
+}
+.div3 {
+  	position: absolute;
+  	top: 0px;
+  	left: 189px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+}
+.line-child3 {
+  	position: absolute;
+  	top: 1px;
+  	left: 1px;
+  	border-radius: 30px;
+  	background-color: #ffb400;
+  	width: 209px;
+  	height: 2px;
+}
+.css {
+  	position: absolute;
+  	top: 80px;
+  	left: 0px;
+  	width: 220px;
+  	height: 24px;
+}
+.line-child5 {
+  	position: absolute;
+  	top: 1px;
+  	left: 1px;
+  	border-radius: 30px;
+  	background-color: #ffb400;
+  	width: 207px;
+  	height: 2px;
+}
+.line3 {
+  	position: absolute;
+  	top: 109px;
+  	left: 0px;
+  	width: 220px;
+  	height: 4px;
+}
+.js {
+  	position: absolute;
+  	top: 123px;
+  	left: 0px;
+  	width: 220px;
+  	height: 24px;
+}
+.line-child7 {
+  	position: absolute;
+  	top: 1px;
+  	left: 1px;
+  	border-radius: 30px;
+  	background-color: #ffb400;
+  	width: 201px;
+  	height: 2px;
+}
+.line4 {
+  	position: absolute;
+  	top: 152px;
+  	left: 0px;
+  	width: 220px;
+  	height: 4px;
+}
+.div6 {
+  	position: absolute;
+  	top: 0px;
+  	left: 190px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+}
+.php {
+  	position: absolute;
+  	top: 166px;
+  	left: 0px;
+  	width: 220px;
+  	height: 24px;
+}
+.line-child9 {
+  	position: absolute;
+  	top: 1px;
+  	left: 1px;
+  	border-radius: 30px;
+  	background-color: #ffb400;
+  	width: 187px;
+  	height: 2px;
+}
+.line5 {
+  	position: absolute;
+  	top: 195px;
+  	left: 0px;
+  	width: 220px;
+  	height: 4px;
+}
+.wordpress {
+  	position: absolute;
+  	top: 209px;
+  	left: 0px;
+  	width: 220px;
+  	height: 24px;
+}
+.line6 {
+  	position: absolute;
+  	top: 238px;
+  	left: 0px;
+  	width: 220px;
+  	height: 4px;
+}
+.skills {
+  	position: absolute;
+  	top: 745px;
+  	left: 40px;
+  	width: 220px;
+  	height: 242px;
+  	color: #767676;
+}
+.left-menu-child1 {
+  	position: absolute;
+  	top: 1026.25px;
+  	left: 40.25px;
+  	border-top: 1.5px solid #f0f0f6;
+  	box-sizing: border-box;
+  	width: 221.5px;
+  	height: 1.5px;
+}
+.buttoncv-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	background-color: #ffb400;
+}
+.download-cv {
+  	position: absolute;
+  	height: 100%;
+  	width: 76.6%;
+  	top: 0%;
+  	left: 0%;
+  	text-transform: uppercase;
+  	font-weight: 600;
+  	display: inline-block;
+}
+.frame-icon1 {
+  	position: absolute;
+  	height: 82.47%;
+  	width: 9.93%;
+  	top: 11.78%;
+  	right: 0%;
+  	bottom: 5.74%;
+  	left: 90.07%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.download-cv-parent {
+  	position: absolute;
+  	height: 48.5%;
+  	width: 64.09%;
+  	top: 25%;
+  	right: 17.73%;
+  	bottom: 26.5%;
+  	left: 18.18%;
+}
+.buttoncv {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+}
+.buttoncv2 {
+  	position: absolute;
+  	top: 1063px;
+  	left: 39px;
+  	width: 220px;
+  	height: 40px;
+  	font-size: 14px;
+}
+.left-menu {
+  	position: absolute;
+  	top: 11px;
+  	left: -10px;
+  	width: 305px;
+  	height: 1157px;
+}
+.right-menu-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	box-shadow: 4px 0px 10px rgba(47, 122, 249, 0.1);
+  	background-color: #fafafa;
+  	width: 108px;
+  	height: 1157px;
+}
+.professional-societies {
+  	position: absolute;
+  	top: 0px;
+  	left: 314px;
+  	font-size: 32px;
+  	line-height: 123.6%;
+  	text-transform: capitalize;
+}
+.blog-post-1-1-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 4px;
+  	background-color: #fff;
+  	width: 310px;
+  	height: 474px;
+}
+.image-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 310px;
+  	height: 300px;
+  	object-fit: cover;
+}
+.associate-member {
+  	position: absolute;
+  	top: 325px;
+  	left: 79px;
+  	line-height: 123.6%;
+  	text-transform: capitalize;
+  	font-weight: 500;
+}
+.of-the-institution-container {
+  	position: absolute;
+  	top: 355px;
+  	left: 29px;
+  	font-size: 15px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	color: #767676;
+  	display: inline-block;
+  	width: 268px;
+  	height: 95px;
+}
+.blog-post-1-1 {
+  	position: absolute;
+  	top: 91px;
+  	left: 0px;
+  	width: 314px;
+  	height: 474px;
+  	text-align: center;
+}
+.blog-post-2-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #fff;
+  	width: 310px;
+  	height: 474px;
+}
+.life-member {
+  	position: absolute;
+  	top: 321px;
+  	left: 100px;
+  	line-height: 123.6%;
+  	text-transform: capitalize;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 111px;
+}
+.the-indian-society-container {
+  	position: absolute;
+  	top: 355px;
+  	left: 25px;
+  	font-size: 15px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	color: #767676;
+  	text-align: center;
+  	display: inline-block;
+  	width: 268px;
+  	height: 95px;
+}
+.blog-post-2 {
+  	position: absolute;
+  	top: 91px;
+  	left: 334px;
+  	width: 310px;
+  	height: 474px;
+}
+.member {
+  	position: absolute;
+  	top: 321px;
+  	left: 119px;
+  	line-height: 123.6%;
+  	text-transform: capitalize;
+  	font-weight: 500;
+}
+.institute-of-research {
+  	position: absolute;
+  	top: 355px;
+  	left: 25px;
+  	font-size: 15px;
+  	line-height: 24px;
+  	text-transform: capitalize;
+  	color: #767676;
+  	display: inline-block;
+  	width: 268px;
+  	height: 70px;
+}
+.blog-post-3 {
+  	position: absolute;
+  	top: 91px;
+  	left: 664px;
+  	width: 310px;
+  	height: 474px;
+}
+.blog {
+  	position: absolute;
+  	top: 1103px;
+  	left: 346px;
+  	width: 974px;
+  	height: 565px;
+  	font-size: 18px;
+}
+.profile-overview-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 971px;
+  	height: 413px;
+}
+.international-journals {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	line-height: 188%;
+  	font-weight: 500;
+}
+.div8 {
+  	position: absolute;
+  	top: 0px;
+  	left: 167px;
+  	line-height: 188%;
+  	font-weight: 500;
+  	white-space: pre-wrap;
+}
+.line-child12 {
+  	position: absolute;
+  	height: 200%;
+  	width: 100.51%;
+  	top: -50%;
+  	right: -0.25%;
+  	bottom: -50%;
+  	left: -0.25%;
+  	border-radius: 30px;
+  	border: 0.5px solid #ffb400;
+  	box-sizing: border-box;
+}
+.line-child13 {
+  	position: absolute;
+  	height: 50%;
+  	width: 99.09%;
+  	top: 25%;
+  	right: 0.45%;
+  	bottom: 25%;
+  	left: 0.45%;
+  	border-radius: 30px;
+  	background-color: #ffb400;
+}
+.line7 {
+  	position: absolute;
+  	top: 22px;
+  	left: 0px;
+  	width: 198px;
+  	height: 1px;
+}
+.international-journals-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 23.5px;
+  	width: 343px;
+  	height: 28px;
+}
+.shape-icon {
+  	align-self: stretch;
+  	flex: 1;
+  	position: relative;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.iconsstar {
+  	position: absolute;
+  	top: 8px;
+  	left: 0px;
+  	width: 12.4px;
+  	height: 11px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+}
+.international-journal {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 366.5px;
+  	height: 28px;
+}
+.div9 {
+  	position: absolute;
+  	top: 0px;
+  	left: 161px;
+  	line-height: 188%;
+  	font-weight: 500;
+  	white-space: pre-wrap;
+}
+.line-child14 {
+  	position: absolute;
+  	height: 200%;
+  	width: 100.52%;
+  	top: -50%;
+  	right: -0.26%;
+  	bottom: -50%;
+  	left: -0.26%;
+  	border-radius: 30px;
+  	border: 0.5px solid #ffb400;
+  	box-sizing: border-box;
+}
+.line-child15 {
+  	position: absolute;
+  	height: 50%;
+  	width: 99.07%;
+  	top: 25%;
+  	right: 0.48%;
+  	bottom: 25%;
+  	left: 0.45%;
+  	border-radius: 30px;
+  	background-color: #ffb400;
+}
+.line8 {
+  	position: absolute;
+  	top: 22px;
+  	left: 0px;
+  	width: 193px;
+  	height: 1px;
+}
+.international-journal1 {
+  	position: absolute;
+  	top: 48px;
+  	left: 0px;
+  	width: 366.5px;
+  	height: 28px;
+}
+.div10 {
+  	position: absolute;
+  	top: 0px;
+  	left: 182px;
+  	line-height: 188%;
+  	font-weight: 500;
+  	white-space: pre-wrap;
+}
+.line-child16 {
+  	position: absolute;
+  	height: 200%;
+  	width: 100.47%;
+  	top: -50%;
+  	right: -0.23%;
+  	bottom: -50%;
+  	left: -0.23%;
+  	border-radius: 30px;
+  	border: 0.5px solid #ffb400;
+  	box-sizing: border-box;
+}
+.line-child17 {
+  	position: absolute;
+  	height: 50%;
+  	width: 99.11%;
+  	top: 25%;
+  	right: 0.44%;
+  	bottom: 25%;
+  	left: 0.45%;
+  	border-radius: 30px;
+  	background-color: #ffb400;
+}
+.line9 {
+  	position: absolute;
+  	top: 22px;
+  	left: 0px;
+  	width: 213px;
+  	height: 1px;
+}
+.international-journal2 {
+  	position: absolute;
+  	top: 96px;
+  	left: 0px;
+  	width: 366.5px;
+  	height: 28px;
+}
+.div11 {
+  	position: absolute;
+  	top: 0px;
+  	left: 290px;
+  	line-height: 188%;
+  	font-weight: 500;
+  	white-space: pre-wrap;
+}
+.line-child18 {
+  	position: absolute;
+  	height: 200%;
+  	width: 100.31%;
+  	top: -50%;
+  	right: -0.16%;
+  	bottom: -50%;
+  	left: -0.16%;
+  	border-radius: 30px;
+  	border: 0.5px solid #ffb400;
+  	box-sizing: border-box;
+}
+.line-child19 {
+  	position: absolute;
+  	height: 50%;
+  	width: 99.1%;
+  	top: 25%;
+  	right: 0.45%;
+  	bottom: 25%;
+  	left: 0.45%;
+  	border-radius: 30px;
+  	background-color: #ffb400;
+}
+.line10 {
+  	position: absolute;
+  	top: 22px;
+  	left: 0px;
+  	width: 321px;
+  	height: 1px;
+}
+.technical-program-committee-me-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 24px;
+  	width: 339px;
+  	height: 28px;
+}
+.international-journal3 {
+  	position: absolute;
+  	top: 144px;
+  	left: 3.5px;
+  	width: 363px;
+  	height: 28px;
+}
+.international-journal4 {
+  	position: absolute;
+  	top: 192px;
+  	left: 0px;
+  	width: 366.5px;
+  	height: 28px;
+}
+.div13 {
+  	position: absolute;
+  	top: 0px;
+  	left: 189px;
+  	line-height: 188%;
+  	font-weight: 500;
+  	white-space: pre-wrap;
+}
+.line-child22 {
+  	position: absolute;
+  	height: 200%;
+  	width: 100.45%;
+  	top: -50%;
+  	right: -0.23%;
+  	bottom: -50%;
+  	left: -0.23%;
+  	border-radius: 30px;
+  	border: 0.5px solid #ffb400;
+  	box-sizing: border-box;
+}
+.line12 {
+  	position: absolute;
+  	top: 22px;
+  	left: 0px;
+  	width: 220px;
+  	height: 1px;
+}
+.international-journal5 {
+  	position: absolute;
+  	top: 240px;
+  	left: 0px;
+  	width: 366.5px;
+  	height: 28px;
+}
+.left-group {
+  	position: absolute;
+  	top: 99px;
+  	left: 149.5px;
+  	width: 366.5px;
+  	height: 268px;
+}
+.div15 {
+  	position: absolute;
+  	top: 0px;
+  	left: 256.5px;
+  	line-height: 188%;
+  	font-weight: 500;
+  	white-space: pre-wrap;
+}
+.line-child26 {
+  	position: absolute;
+  	height: 200%;
+  	width: 100.35%;
+  	top: -50%;
+  	right: -0.17%;
+  	bottom: -50%;
+  	left: -0.17%;
+  	border-radius: 30px;
+  	border: 0.5px solid #ffb400;
+  	box-sizing: border-box;
+}
+.line14 {
+  	position: absolute;
+  	top: 22px;
+  	left: -0.5px;
+  	width: 288px;
+  	height: 1px;
+}
+.div16 {
+  	position: absolute;
+  	top: 0px;
+  	left: 229.5px;
+  	line-height: 188%;
+  	font-weight: 500;
+  	white-space: pre-wrap;
+}
+.line-child28 {
+  	position: absolute;
+  	height: 200%;
+  	width: 100.38%;
+  	top: -50%;
+  	right: -0.19%;
+  	bottom: -50%;
+  	left: -0.19%;
+  	border-radius: 30px;
+  	border: 0.5px solid #ffb400;
+  	box-sizing: border-box;
+}
+.line-child29 {
+  	position: absolute;
+  	height: 50%;
+  	width: 99.08%;
+  	top: 25%;
+  	right: 0.47%;
+  	bottom: 25%;
+  	left: 0.45%;
+  	border-radius: 30px;
+  	background-color: #ffb400;
+}
+.line15 {
+  	position: absolute;
+  	top: 22px;
+  	left: 0.5px;
+  	width: 260px;
+  	height: 1px;
+}
+.div17 {
+  	position: absolute;
+  	top: 0px;
+  	left: 242.5px;
+  	line-height: 188%;
+  	font-weight: 500;
+  	white-space: pre-wrap;
+}
+.line-child30 {
+  	position: absolute;
+  	height: 200%;
+  	width: 100.37%;
+  	top: -50%;
+  	right: -0.18%;
+  	bottom: -50%;
+  	left: -0.18%;
+  	border-radius: 30px;
+  	border: 0.5px solid #ffb400;
+  	box-sizing: border-box;
+}
+.line-child31 {
+  	position: absolute;
+  	height: 50%;
+  	width: 99.08%;
+  	top: 25%;
+  	right: 0.46%;
+  	bottom: 25%;
+  	left: 0.45%;
+  	border-radius: 30px;
+  	background-color: #ffb400;
+}
+.line16 {
+  	position: absolute;
+  	top: 22px;
+  	left: 0.5px;
+  	width: 273px;
+  	height: 1px;
+}
+.div18 {
+  	position: absolute;
+  	top: 0px;
+  	left: 135.5px;
+  	line-height: 188%;
+  	font-weight: 500;
+  	white-space: pre-wrap;
+}
+.line-child32 {
+  	position: absolute;
+  	height: 200%;
+  	width: 100.6%;
+  	top: -50%;
+  	right: -0.3%;
+  	bottom: -50%;
+  	left: -0.3%;
+  	border-radius: 30px;
+  	border: 0.5px solid #ffb400;
+  	box-sizing: border-box;
+}
+.line17 {
+  	position: absolute;
+  	top: 22px;
+  	left: 0.5px;
+  	width: 166px;
+  	height: 1px;
+}
+.div19 {
+  	position: absolute;
+  	top: 0px;
+  	left: 134.5px;
+  	line-height: 188%;
+  	font-weight: 500;
+  	white-space: pre-wrap;
+}
+.right-group {
+  	position: absolute;
+  	top: 99px;
+  	left: 551px;
+  	width: 366.5px;
+  	height: 268px;
+}
+.profile-overview1 {
+  	position: absolute;
+  	top: 27px;
+  	left: 291px;
+  	font-size: 48px;
+  	line-height: 123.6%;
+}
+.profile-overview {
+  	position: absolute;
+  	top: 356px;
+  	left: 336px;
+  	width: 971px;
+  	height: 413px;
+  	color: #0d0d0d;
+}
+.home-page {
+  	width: 100%;
+  	position: relative;
+  	background-color: #dfdfe8;
+  	height: 2090px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 15px;
+  	color: #0e0e0e;
+  	font-family: Inter;
+}
